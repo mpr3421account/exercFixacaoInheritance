@@ -8,5 +8,7 @@ namespace exercFixacaoInheritance.Entities
 {
     internal class UsedProduct
     {
+        public DateTime manufactureDate { get; set; }
+
     }
 }
